@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sophia Kim",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://sophia-kim.github.io/images/sophia.jpg",
+    "email": "sophiak8@hawaii.edu",
+    "phone": "",
+    "website": "https://sophia-kim.github.io",
+    "summary": "I am persuing a degree of B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,36 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "sophia-kim",
+        "url": "http://github.com/sophia-kim"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "sophia-k-685065122",
+        "url": "http://linkedin.com/in/sophia-k-685065122"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "email",
+        "username": "sophiak8",
+        "url": "sophiak8@hawaii.edu"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "machine learning",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "cyber security",
       "keywords": [
       ]
     },
@@ -58,64 +51,51 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Paython",
+        "Matlab"
       ]
     },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-08-21",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "4.0",
       "courses": [
+        "Discrete Mathematics",
+        "Data Structures"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "School of Ocean and Earth Science and Technology",
+      "position": "Fiscal Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-11-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Aiding in building intricate reports based on the department's expenses and budget.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Update and maintain the confidential fiscal reports"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Learning Assistance Center",
+      "position": "Tutor",
+      "website": "http://manoa.hawaii.edu/undergrad/learning/",
+      "startDate": "2018-08-28",
+      "endDate": "Present",
+      "summary": "Tutoring students who wish to have concrete understanding of the courses such as Discrete Mathematics and other introductory level ICS courses.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        ""
       ]
     }
   ],
