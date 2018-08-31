@@ -62,6 +62,18 @@
 		]
 	}],
 	"work": [{
+			"company": "Learning Assistance Center",
+			"position": "Tutor",
+			"website": "http://manoa.hawaii.edu/undergrad/learning/",
+			"startDate": "2018-08-28",
+			"endDate": "Present",
+			"summary": "Tutoring students who wish to have concrete understanding of the courses such as Discrete Mathematics and other introductory level ICS courses.",
+			"highlights": [
+				""
+			]
+		},
+		
+		{
 			"company": "School of Ocean and Earth Science and Technology",
 			"position": "Fiscal Assistant",
 			"website": "",
@@ -73,17 +85,6 @@
 				"Revising and improving a data sheet to better the performance"
 			]
 		},
-		{
-			"company": "Learning Assistance Center",
-			"position": "Tutor",
-			"website": "http://manoa.hawaii.edu/undergrad/learning/",
-			"startDate": "2018-08-28",
-			"endDate": "Present",
-			"summary": "Tutoring students who wish to have concrete understanding of the courses such as Discrete Mathematics and other introductory level ICS courses.",
-			"highlights": [
-				""
-			]
-		}
 	],
 	"volunteer": [{
 			"organization": "National Honor Society at Pearl City High School",
