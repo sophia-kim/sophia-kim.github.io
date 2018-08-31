@@ -1,42 +1,52 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/hexadecimalsudoku.jpg
 title: Project 1
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2018-03-DD
+date: 2018-03-16
 labels:
   - Java
-summary: As an assignment of the course ICS 211, I created a project...
+summary: As an assignment of the course ICS 211, I created a project that creates a sudoku puzzle solver.
 ---
-
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
 
 Hexadecimal sudoku is a 16x16 sudoku that solves the puzzle so that no values between 1 and 16 are used more than once on the same line going vertically, horizontally AND diagonally. If the same number repeats in any way in any direction, the puzzle solver may need to reconsider their choice of the input. When the solver completes the sudoku without the numbers conflicting, then the puzzle is considered complete and correct. 
 
-For this assignment, I had to create a program that takes in an incomplete sudoku puzzle as an input and outputs a correct, completed conditions. The program achieves this by running numerous functions to check the values that already exist in the sudoku and finding the ultimate solution that satisfies all the conditions. One of the functions that aids in running this program is checking whether a value between 1 and 16 is valid or not. It first checks if the value is already in the given in the provided array of elements in the 16x16 sudoku. If the value already exists in the given array, then the function checks i
+For this assignment, I had to create a program that takes in an incomplete sudoku puzzle as an input and outputs a correct, completed conditions recursively. The program achieves this by running numerous functions to check the values that already exist in the sudoku and finding the ultimate solution that satisfies all the conditions. If it has found the correct solution it will print the result in the console of the user's IDE. The program scans and examines each row until reaching an empty space marked as the value -1 in the 16x16 array, and inserts a valid number and continues to repeat the same process. If it turns out that there is no value that meets the expectations of the slot, the program will use backtracking method to take a step back and find a valid value that can be used to occupy the empty slot.
 
-Here is some code that illustrates how we read values from the line sensors:
+
+Here is some code that partially demonstrates how the puzzle solver worked:
 
 ```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
+private static boolean isValid(int[][] sudoku, int row, int column, int val) {
+    for (int i = 0; i < 16; i++) {
+      if (sudoku[i][column] == val) {
+        return false;
+      }
     }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+    for (int j = 0; j < 16; j++) {
+      if (j != column) {
+        if (sudoku[row][j] == val) {
+          return false;
+        }
+      }
+    }
+
+    int startRow = (row / 4) * 4;
+    int startColumn = (column / 4) * 4;
+    for (int i = startRow; i < startRow + 4; i++) {
+      for (int j = startColumn; j < startColumn + 4; j++) {
+        if (!(i == row && j == column) && sudoku[i][j] == val) {
+          return false;
+        }
+      }
+    }
+    return true;
+  }
+
+```
 
 
 
