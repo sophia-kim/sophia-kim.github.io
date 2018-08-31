@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/hexadecimalsudoku.jpg
 title: Hexadecimal Sudoku Solver
-permalink: projects/micromouse
+permalink: projects/hexadecimalsudokusolver
 # All dates must be YYYY-MM-DD format!
 date: 2018-03-16
 labels:
