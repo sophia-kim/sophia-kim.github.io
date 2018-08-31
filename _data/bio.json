@@ -79,7 +79,8 @@
       "endDate": "Present",
       "summary": "Aiding in building intricate reports based on the department's expenses and budget.",
       "highlights": [
-        "Update and maintain the confidential fiscal reports"
+        "Update and maintain the confidential fiscal reports",
+        "Revising and improving a data sheet to better the performance"
       ]
     },
     {
@@ -96,43 +97,35 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "National Honor Society at Pearl City High School",
+      "website": "https://www.nhs.us/",
+      "position": "Vice President",
+      "startDate": "2014-05-01",
+      "endDate": "2017-05-12",
+      "summary": "Vice president for organizing events and volunteer activities",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Tutored students after school to guide them through their high school career",
+        "Volunteered in numerous events such as the Heart Walk"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "University of Hawaii at Manoa NWS Chancellor's Scaholrship",
+      "date": "2017-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Scholarship awarded by the university to students who show outstanding performance throughout their high school career, and meet the expectations such as extracurricular activities and test scores."
     }
   ],
   "references": [
