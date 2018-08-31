@@ -1,137 +1,122 @@
 {
-  "basics": {
-    "name": "Sophia Kim",
-    "label": "Student",
-    "picture": "https://sophia-kim.github.io/images/sophia.jpg",
-    "email": "sophiak8@hawaii.edu",
-    "phone": "",
-    "website": "https://sophia-kim.github.io",
-    "summary": "I am persuing a degree of B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "sophia-kim",
-        "url": "http://github.com/sophia-kim"
-      },
-      {
-        "network": "linkedin",
-        "username": "sophia-k-685065122",
-        "url": "http://linkedin.com/in/sophia-k-685065122"
-      }
-    ]
-  },
-  "interests": [
-    {
-      "name": "machine learning",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "cyber security",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages",
-      "level": "",
-      "keywords": [
-        "Java",
-        "Javascript",
-        "Paython",
-        "Matlab"
-      ]
-    },
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
-      "studyType": "B.S.",
-      "startDate": "2017-08-21",
-      "endDate": "Present",
-      "gpa": "4.0",
-      "courses": [
-        "Discrete Mathematics",
-        "Data Structures"
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "School of Ocean and Earth Science and Technology",
-      "position": "Fiscal Assistant",
-      "website": "",
-      "startDate": "2017-11-01",
-      "endDate": "Present",
-      "summary": "Aiding in building intricate reports based on the department's expenses and budget.",
-      "highlights": [
-        "Update and maintain the confidential fiscal reports",
-        "Revising and improving a data sheet to better the performance"
-      ]
-    },
-    {
-      "company": "Learning Assistance Center",
-      "position": "Tutor",
-      "website": "http://manoa.hawaii.edu/undergrad/learning/",
-      "startDate": "2018-08-28",
-      "endDate": "Present",
-      "summary": "Tutoring students who wish to have concrete understanding of the courses such as Discrete Mathematics and other introductory level ICS courses.",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "National Honor Society at Pearl City High School",
-      "website": "https://www.nhs.us/",
-      "position": "Vice President",
-      "startDate": "2014-05-01",
-      "endDate": "2017-05-12",
-      "summary": "Vice president for organizing events and volunteer activities",
-      "highlights": [
-        "Tutored students after school to guide them through their high school career",
-        "Volunteered in numerous events such as the Heart Walk"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "University of Hawaii at Manoa NWS Chancellor's Scaholrship",
-      "date": "2017-Present",
-      "awarder": "University of Hawaii",
-      "summary": "Scholarship awarded by the university to students who show outstanding performance throughout their high school career, and meet the expectations such as extracurricular activities and test scores."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+	"basics": {
+		"name": "Sophia Kim",
+		"label": "Student",
+		"picture": "https://sophia-kim.github.io/images/sophia.jpg",
+		"email": "sophiak8@hawaii.edu",
+		"phone": "",
+		"website": "https://sophia-kim.github.io",
+		"summary": "I am persuing a degree of B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+		"location": {
+			"address": "",
+			"postalCode": "96822",
+			"city": "Honolulu",
+			"countryCode": "USA",
+			"region": "Hawaii"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "sophia-kim",
+				"url": "http://github.com/sophia-kim"
+			},
+			{
+				"network": "linkedin",
+				"username": "sophia-k-685065122",
+				"url": "http://linkedin.com/in/sophia-k-685065122"
+			}
+		]
+	},
+	"interests": [{
+			"name": "machine learning",
+			"keywords": []
+		},
+		{
+			"name": "cyber security",
+			"keywords": []
+		},
+		{
+			"name": "artificial intelligence",
+			"keywords": []
+		}
+	],
+	"skills": [{
+		"name": "Languages",
+		"level": "",
+		"keywords": [
+			"Java",
+			"Javascript",
+			"Paython",
+			"Matlab"
+		]
+	}],
+	"education": [{
+		"institution": "University of Hawaii, Honolulu, HI",
+		"area": "Computer Science (expected Spring, 2021)",
+		"studyType": "B.S.",
+		"startDate": "2017-08-21",
+		"endDate": "Present",
+		"gpa": "4.0",
+		"courses": [
+			"Discrete Mathematics",
+			"Data Structures"
+		]
+	}],
+	"work": [{
+			"company": "School of Ocean and Earth Science and Technology",
+			"position": "Fiscal Assistant",
+			"website": "",
+			"startDate": "2017-11-01",
+			"endDate": "Present",
+			"summary": "Aiding in building intricate reports based on the department's expenses and budget.",
+			"highlights": [
+				"Update and maintain the confidential fiscal reports",
+				"Revising and improving a data sheet to better the performance"
+			]
+		},
+		{
+			"company": "Learning Assistance Center",
+			"position": "Tutor",
+			"website": "http://manoa.hawaii.edu/undergrad/learning/",
+			"startDate": "2018-08-28",
+			"endDate": "Present",
+			"summary": "Tutoring students who wish to have concrete understanding of the courses such as Discrete Mathematics and other introductory level ICS courses.",
+			"highlights": [
+				""
+			]
+		}
+	],
+	"volunteer": [{
+			"organization": "National Honor Society at Pearl City High School",
+			"website": "https://www.nhs.us/",
+			"position": "Vice President",
+			"startDate": "2014-05-01",
+			"endDate": "2017-05-12",
+			"summary": "Vice president for organizing events and volunteer activities",
+			"highlights": [
+				"Tutored students after school to guide them through their high school career",
+				"Volunteered in numerous events such as the Heart Walk"
+			]
+		},
+		{
+			"organization": "",
+			"website": "",
+			"position": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": "",
+			"highlights": [
+				""
+			]
+		}
+	],
+	"awards": [{
+		"title": "University of Hawaii at Manoa NWS Chancellor's Scaholrship",
+		"date": "2017-Present",
+		"awarder": "University of Hawaii",
+		"summary": "Scholarship awarded by the university to students who show outstanding performance throughout their high school career, and meet the expectations such as extracurricular activities and test scores."
+	}],
+	"references": [{
+		"name": "Available upon request",
+		"reference": ""
+	}]
 }
