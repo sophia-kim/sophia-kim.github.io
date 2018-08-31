@@ -5,7 +5,7 @@ image: images/nhs.jpg
 title: Tutor
 permalink: projects/tutor
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-10 to 2017-05-12
+date: 2017-05-12
 labels:
   - Communication
   - Tutor
