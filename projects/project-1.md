@@ -8,7 +8,7 @@ permalink: projects/hexadecimalsudokusolver
 date: 2018-03-16
 labels:
   - Java
-summary: As an assignment of the course ICS 211, I created a project that creates a sudoku puzzle solver.
+summary: As an assignment for the course ICS 211, I created a project that creates a sudoku puzzle solver.
 ---
 
 
