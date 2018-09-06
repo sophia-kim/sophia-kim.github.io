@@ -10,7 +10,7 @@ labels:
 ---
 
 Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
-### Why Be Smart?
+## Why Be Smart?
 We all grew up listening to teachers saying, "there is no such thing as stupid questions." Well, throughout my years in high school and college, I have realized that there in fact are some questions that should be categorized as stupid or unnecessary. For instance, I had some people ask the same question that was answered a few seconds ago, or raise their hand confidently just to ask a question that could have been answered by doing some research on their own (I believe we all encountered at least one person like that... or we once were one of them too). Not paying attention or being lazy can lead to wasting everyone's time, and thay's why it's important to ask smart questions. At the end of the day, no one likes to endure endless series of questions for someone who is not competent enough to do the work for him or herself, especially in the world of programming; we all have our own projects to finish in a given period of time, our own codes to debug and our newly-introduced knowledge to digest. Time is gold and as much as we would like to help others in need, if they don't want to help themselves, it simply isn't worth our time. Thus, it is important that one must know and understand the methods of asking smart questions and apply them in real life so that he or she receives an efficient and effective answer whilst not wasting anyone's time.
 
 ## Example of a Bad Question
