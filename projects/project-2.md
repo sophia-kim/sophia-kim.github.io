@@ -21,6 +21,7 @@ I believe that when people think about Microsoft Excel, it simply regard them as
 (Due to issues regarding confidentiality, I am not allowed to share an actual image or data of the report.)
 
 ```
-=INDEX(range, MATCH(lookup_value, lookup_range, match_type)) // an example function, used to look up values
+=INDEX(range, MATCH(lookup_value, lookup_range, match_type)) 
+// an example function, used to look up values
 
 ```
