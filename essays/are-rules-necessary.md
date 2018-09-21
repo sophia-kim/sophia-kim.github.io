@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Are Rules Necessary?
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-20
 labels:
