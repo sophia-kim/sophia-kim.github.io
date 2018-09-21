@@ -8,9 +8,10 @@ labels:
   - Coding Standards
   - ESLing
 ---
-<img class="ui medium right floated rounded image" src="../images/coding.jpg">
 
 ## Do We Really Need to Follow the Rules?
+
+<img class="ui medium right floated rounded image" src="../images/coding.jpg">
 
   Let's admit one thing before we get down to the real business: seeing multiple red or yellow marks on the editor window just because you forgot a few spaces in between parenthesis and variables is not the most wonderful sight to see. From my experiences, nothing was more frustrating than getting points marked off assignments just because my indentation was off by a few spaces. I now have established a love-hate relationship with coding standards; as much as I find them tedious and annoying at times, they have helped me learn programming languages and enhanced my understanding of what the lines of codes do in programs. 
 
