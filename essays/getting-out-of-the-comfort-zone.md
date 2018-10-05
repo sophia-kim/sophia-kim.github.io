@@ -28,7 +28,7 @@ labels:
   
   He stopped asking me for updates, I stopped caring for building the website, I started school and no longer was sitting around, my father didn't lecture me anymore, and all was good. I never thought I would encounter HTML again, which was a dumb thought considering how I am a computer science major; I could never escape it even if I tried.
   
-  # Rollercoaster Ride
+# Rollercoaster Ride
   
   <img class="ui centered image" src="../images/semanticui.jpg">
  
@@ -40,7 +40,7 @@ labels:
   
   One can find the beauty in the fact that something that would have taken someone hours or even days to make using HTML and CSS now takes less than half an hour. Of course, learning new things is always hard, and juggling HTML, CSS and Semantic UI and really getting down to all three of them can be stressful. But it has saved time greatly and made me (who has developed trauma from building a website before) want to look more into web development and UI design again. 
   
-  # The Dark Tunnel
+# The Dark Tunnel
   
    In Calculus, they teach you the definition of derivative and tell you to use this formula: 
    ![eqn](https://latex.codecogs.com/gif.latex?%5Clim_%7Bh%5Crightarrow%200%7D%5Cfrac%7Bf%28x&plus;h%29-f%28x%29%7D%7Bh%7D) to find the slope and the equation of the tangent line. Although it's more of an algebra problem that requires some simplification than calculus, some people get scared and their negative thoughts towards what appears to be a complicated equation prevents them from wanting to move forward. 
