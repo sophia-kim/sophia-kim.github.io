@@ -15,11 +15,11 @@ labels:
 
 # Is it 2002?
 
-<img class="ui image" src="../images/website.gif">
+<img class="ui centered image" src="../images/website.gif">
 
   It all began on a hot summer night a year ago. I was comfortably attached to my bed like always, doing absolutely nothing but breathing... until my father decided to lecture me for a good hour or so out of nowhere, asking about my career plans, how I plan on making billions of dollars in one day, and many other things that parents would ask their children. I told him I didn't have any specific plans, and that I was still unsure of which field of computer science I wanted to dive into. He raised his voice a bit, probably out of frustration that his daughter didn't have any goals. Then he decided to give me a project that scarred me for life; building a website for his business. Of course, his intention was good and pure, he just wanted me to explore new things and find something that interests me so I can do something with my life instead of just sitting around all day. However, building a website was so much more than what I expected as a newbie in the world of computer science. Nonetheless, I knew I would much rather build a website than sit through another hour long lecture with my father. I watched tutorials on Youtube all day, slept through some of the videos, and finally felt confident enough to start building this website for my father! 
   
-  <img class="ui image" src="../images/spongebob.jpg">
+  <img class="ui centered image" src="../images/spongebob.jpg">
   
   **_Except I felt like I belonged in the Stone Age._**
   
@@ -27,7 +27,7 @@ labels:
   
   # Rollercoaster Ride
   
-  <img class="ui image" src="../images/semanticui.jpg">
+  <img class="ui centered image" src="../images/semanticui.jpg">
  
   The beginning of the rollercoaster ride was something I was already familiar with; although I had buried it deep inside of me, I still remembered the basic HTML and CSS well enough to complete the assignments and the WOD. As we changed gear and started heading up, we were introduced to Semantic UI. And so far, I am absolutely fascinated by it. Building a website with Semantic UI is so much easier than I had ever imagined and as long as you know how to use the classes, elements and collections correctly, your website is guaranteed to turn out nicer than building them with pure HTML and CSS. It certainly isn't all about rainbows, cupcakes and unicorns but Semantic UI, as well as other UI frameworks, allows for slick outcomes that make up for the obstacles encountered along the way. The information may seem too abundant to take in all at once, but once you get the hang of it, you would never want to go back to using just HTML and CSS; unless you feel adventurous and want to feel like what the cavemen felt, of course. 
   
