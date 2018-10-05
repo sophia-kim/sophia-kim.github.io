@@ -21,7 +21,7 @@ labels:
   
   <img class="ui centered image" src="../images/spongebob.jpg">
   
-  **_Except I felt like I belonged in the Stone Age._**
+  <div class="ui centered item">**_Except I felt like I belonged in the Stone Age._**</div>
   
   Living in the world where new phones come out every few months, have items shipped to your house with just a few clicks and cars that know when to brake and gas, the website I built seemed a little *too* out of the picture. It wasn't clear what the website was even made for, and it almost even looked like a scam. In short, it didn't look appealing at all. My father asked me to update him on the project so I showed him a glimpse of the horrendous "website," and as hard as he tried to hide what he was feeling inside, I could tell that he was almost shocked to see my creation. He stopped asking me for updates, I stopped caring for building the website, I started school and no longer was sitting around, my father didn't lecture me anymore, and all was good. I never thought I would encounter HTML again, which was a dumb thought considering how I am a computer science major; I could never escape it even if I tried.
   
