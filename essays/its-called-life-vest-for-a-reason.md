@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: It's called "Life" Vest for a Reason
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-29
 labels:
@@ -37,7 +37,7 @@ A design pattern that I have encountered recently is the observer pattern. It is
 
 # Do I Really Have to Wear It?
 
-  <img class="ui centered image" src="../images/shoreline.png">
+  <img class="ui centered image" src="../images/shoreline.jpg">
 
 Learning about different design patterns and understandig how they are implemented into the things that we do as programmers can be tough obstacles to overcome. Some might believe that it is unnecessary to have design patterns and is even trivial in programming. Well, while the belief can't be declared entirely false (because we all feel and think differently), it is not quite true either. No matter how experienced one thinks he/she is in programming and coding, unforeseen events do happen, and we want to minimize those events as much as possible, quite like how wearing life vests seems dumb until you see your life flash before your own eyes.
 
