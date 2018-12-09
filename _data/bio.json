@@ -46,7 +46,9 @@
 			"Java",
 			"Javascript",
 			"Python",
-			"Matlab"
+			"Matlab",
+			"HTML",
+			"CSS"
 		]
 	}],
 	"education": [{
@@ -58,7 +60,9 @@
 		"gpa": "4.0",
 		"courses": [
 			"Discrete Mathematics",
-			"Data Structures"
+			"Data Structures",
+			"Algorithms",
+			"Software Engineering"
 		]
 	}],
 	"work": [{
