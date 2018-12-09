@@ -33,6 +33,12 @@ if(condition){do task1;}else{do task1;}
 
 Clearly, the codes written in the first block are easier to understand than those from the second block. One can analyze the codes in the first block a lot faster and find out that it's performing the same task regardless of the condition and change that, whereas if one encountered the second block, it might take quite long to even figure out what is going on there. Although the examples are extremely simplified, the main point is that we don't want to see multiple blocks of codes written like the second block.
 
+Similar to how we don't want to see the monsters who eat Kit Kats the wrong way:
+
+<img class="ui medium right floated rounded image" src="../images/kitkat.png">
+
+Again, the Earth won't break in half but... let's just not be this guy here. Eating Kit Kats by breaking them apart following the shape is so much cleaner, better and respecting whoever made Kit Kats. If the lines are there, why not actually use them? And if we have inspectors for coding standards, why not use them to make sure that our codes are clean and neat?
+
 ## The First Step
 
 <img class="ui medium right floated rounded image" src="../images/sea.png">
